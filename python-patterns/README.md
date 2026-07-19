@@ -21,8 +21,3 @@ This repository contains my practice code for printing patterns in Python. These
  *   *   *   *   *  
 
 
-## 💻 How to Run
-1. Ensure you have Python (https://www.python.org/) installed.
-2. Clone this repository:
-   ```bash
-   git clone [python-patterns]
