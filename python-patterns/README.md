@@ -10,14 +10,4 @@ This repository contains my practice code for printing patterns in Python. These
 
 ## 📂 Contents
 *   `pyramid.py`: A script to generate a centered pyramid pattern based on user input.
-         *  
-
-       *   *  
-
-     *   *   *  
-
-   *   *   *   *  
-
- *   *   *   *   *  
-
-
+ 
