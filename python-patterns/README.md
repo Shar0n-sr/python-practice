@@ -1,1 +1,28 @@
+# Python Pattern Programs
 
+A collection of Python scripts designed to practice loops and logic by printing various geometric patterns.
+
+## 🚀 About the Project
+This repository contains my practice code for printing patterns in Python. These scripts help in understanding:
+*   Nested loops (`for` loops).
+*   String manipulation and formatting.
+*   Logic building for grid-based outputs.
+
+## 📂 Contents
+*   `pyramid.py`: A script to generate a centered pyramid pattern based on user input.
+         *  
+
+       *   *  
+
+     *   *   *  
+
+   *   *   *   *  
+
+ *   *   *   *   *  
+
+
+## 💻 How to Run
+1. Ensure you have Python (https://www.python.org/) installed.
+2. Clone this repository:
+   ```bash
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
